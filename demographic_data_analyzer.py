@@ -26,7 +26,9 @@ def calculate_demographic_data(print_data=True):
 
     val = list(race_occ.values())
 
-    race_count = val
+    v2 = sorted(val, reverse=True)
+
+    race_count = v2
 
     # What is the average age of men?
     df1 = (df[['age', 'sex']])
