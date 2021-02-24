@@ -23,6 +23,27 @@ For development,  `main.py` is used to test the functions. Click the "run" butto
 
 The tests were imported from `test_module.py` to `main.py` for the user's convenience. The tests will run automatically whenever you hit the "run" button.
 
+### Output 
+
+Preview of the final output:
+```python
+>>> Number of each race: [27816, 3124, 1039, 311, 271]
+>>> Average age of men: 39.4
+>>> Percentage with Bachelors degrees: 16.4%
+>>> Percentage with higher education that earn >50K: 46.5%
+>>> Percentage without higher education that earn >50K: 17.4%
+>>> Min work time: 1 hours/week
+>>> Percentage of rich among those who work fewest hours: 10.0%
+>>> Country with highest percentage of rich: Iran
+>>> Highest percentage of rich people in country: 41.9%
+>>> Top occupations in India: Prof-specialty
+>>> ..........
+>>> ----------------------------------------------------------------------
+>>> Ran 10 tests in 11.723s
+>>> 
+>>> OK
+```
+
 ### Dataset Source
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
