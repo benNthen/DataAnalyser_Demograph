@@ -2,7 +2,7 @@
 
 # Demographic Data Analyzer
 
-In project, I analyzed a demographic data using Pandas. A dataset of demographic data was extracted from the 1994 Census database. Here is a sample of what the data looks like:
+In this project, I created an analyser that reads data using Pandas. A dataset of demographic data was extracted from the 1994 Census database. Here is a preview of what the dataset looks like in Excel format:
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
 |---:|------:|:-----------------|---------:|:------------|----------------:|:-------------------|:------------------|:---------------|:-------|:-------|---------------:|---------------:|-----------------:|:-----------------|:---------|
